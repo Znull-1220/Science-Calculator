@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"cn.edu.sdu05"},{"l":"cn.edu.sdu05B"},{"l":"所有程序包","u":"allpackages-index.html"}];updateSearchResults();

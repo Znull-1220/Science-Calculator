@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Program files/Java/eclipse/eclipse-workspace/Calculator/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Program files/Java/eclipse/eclipse-workspace/Calculator/jep-java-4.0-trial.jar"/>
+	<classpathentry kind="lib" path="D:/Program files/Java/eclipse/eclipse-workspace/Calculator/MathParser.org-mXparser.jar"/>
+	<classpathentry kind="lib" path="D:/Program files/Java/eclipse/eclipse-workspace/Calculator/flatlaf-3.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Program files/Java/eclipse/eclipse-workspace/Calculator/flatlaf-intellij-themes-3.2.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
