@@ -36,7 +36,7 @@ import javax.swing.SwingConstants;
 
 /**
  * ScienceCalculator类的简介
- * <p>TODO(这里用一句话描述这个类的作用)<br>
+ * <p>科学计算功能GUI, 含该UI的main func.<br>
  *
  * @author Zhang Jinghui
  * <p>created on 2023/11/23<br>
