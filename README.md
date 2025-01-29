@@ -1,9 +1,9 @@
 # Science-Calculator
 
-## 使用说明
+## Instructions
 
-### 计算模式
-积分、微分、连加、连乘的格式分别为：
+### Calculation Mode
+The formats for integration, differentiation, summation, and multiplication are:
 
 $∫(expression, x, from, to)$
 
@@ -13,31 +13,29 @@ $∑(x, from, to, function)$
 
 $∏(x, from, to, function)$
 
-1.function/expression为函数/表达式，需要将它替换为需要进行计算的函数或表达式。
+1. function/expression needs to be replaced with the function or expression you want to calculate.
 
-2.from&to，就是起始点与终止点，积分算式中是积分的上下限，连加&连乘模式是表达式求解的上限与下限。
+2. from & to are the starting and ending points - integration limits for integral calculation, and upper/lower bounds for summation & multiplication.
 
-3.微分算式中有point，这是函数的微分点。
+3. point in differentiation formula represents the point at which the derivative is evaluated.
 
-上面四式中，$x$均意为自变量为$x$。
+In all four formulas above, $x$ represents the variable.
 
-### 方程求解模式
+### Equation Solving Mode
 
-正常按照格式输入系数即可，系数以逗号分隔。
+Simply input coefficients according to the format, separated by commas.
 
-### 进制转换模式
+### Base Conversion Mode
 
-界面上“进制转换”部分的四个按钮BIN、OCT、DEC、HEX仅在进制转换模式中使用。
+The four buttons BIN, OCT, DEC, HEX in the "Base Conversion" section are only used in base conversion mode.
 
-1.初始为十进制，如需改变初始进制，请首先按下进制按钮进行进制转换，再输入数字。
+1. Initially in decimal base. To change the initial base, first press the base button for conversion, then input numbers.
 
-2.点击‘=’按钮后，即确认当前数字的进制为屏幕上所显示的进制。此时在点击四个按钮可分别进行转换。
+2. After clicking the '=' button, the current number's base is confirmed as shown on screen. Then clicking the four buttons will convert to respective bases.
 
-### 函数绘图模式
+### Function Plotting Mode
 
-初始时界面会显示$f(x)=$，输入时仅需输入函数后面的表达式即可。点击‘=’按钮会弹出图象窗体。
+The interface initially shows $f(x)=$. Only input the expression after the function. Click '=' button to display the graph window.
 
-## 程序实现
-代码中使用了mXparser包与FlatLaf包两个jar包。
-
-
+## Implementation
+The code uses two jar packages: mXparser package and FlatLaf package.
